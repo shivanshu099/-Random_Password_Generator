@@ -3,4 +3,8 @@ this repository showcases my project on creating a random password generator usi
 
 
 
-https://github.com/shivanshu099/-Random_Password_Generator/blob/main/Screenshot%20(202).png
+## Screenshots
+
+![App Screenshot](https://github.com/shivanshu099/-Random_Password_Generator/blob/main/Screenshot%20(202).png)
+
+
