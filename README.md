@@ -5,6 +5,6 @@ this repository showcases my project on creating a random password generator usi
 
 ## Screenshots
 
-![App Screenshot](https://github.com/shivanshu099/-Random_Password_Generator/blob/main/Screenshot%20(202).png)
+![App Screenshot](https://github.com/shivanshu099/-Random_Password_Generator/blob/main/Screenshot%20(204).png)
 
 
